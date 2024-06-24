@@ -13,8 +13,6 @@
   
   ![My Skills](https://skillicons.dev/icons?i=py,express,vue,firebase,ts,grafana,go,docker)(https://skillicons.dev)
 
-
-<details>
 Things I have tried but don't use frequently
 
   [![My Skills](https://skillicons.dev/icons?i=wordpress,php,java,eclipse,bootstrap,jquery,sass,deno,figma,materialui,react,nextjs,bash,powershell,prometheus,sass)(https://skillicons.dev)
@@ -24,7 +22,7 @@ Things I have tried but don't use frequently
 Lots of cool information that you will totally read 😁😎
 
 ## Streak
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mvaqq&theme=prussian" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mvaqp&theme=prussian" alt="GitHub Streak" /></a>
 
  ![Commit Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
