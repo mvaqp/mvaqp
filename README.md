@@ -42,8 +42,8 @@ Hello i'm Mattieu! I am currently developing things for Velo Network..
 <hr>
 
 ### What I'm doing right now
-<a href="https://discord.com/users/349899862495723520">
-<img src="https://lanyard.cnrad.dev/api/349899862495723520?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/349899862495723520)](https://discord.com/users/349899862495723520)
 
 
 
