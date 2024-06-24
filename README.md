@@ -3,7 +3,9 @@
  ![GitHub profile views](https://komarev.com/ghpvc/?username=mvaqp&color=009999&style=for-the-badge)
   <hr>
 
-Hello i'm Mattieu! I am currently developing things for Velo Network..
+Hello I am currently developing things for Velo Network..
+
+
 
 <hr>
 
