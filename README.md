@@ -1,14 +1,4 @@
-## Hello! I'm Matt, a passionate and dedicated developer with a robust background in software development. At 28 years old, I've cultivated a diverse skill set and a strong portfolio, reflecting my commitment to excellence and innovation in the tech industry.
-
-With a solid foundation in computer science and hands-on experience across various programming languages and frameworks, I excel in creating efficient, scalable, and user-friendly applications. My expertise spans web development, mobile app development, and backend systems, allowing me to tackle complex problems and deliver high-quality solutions.
-
-Throughout my career, I have worked on numerous projects, both independently and as part of dynamic teams. These experiences have honed my skills in agile development, project management, and collaborative problem-solving. I thrive in fast-paced environments where I can continuously learn and adapt to emerging technologies and industry trends.
-
-Beyond coding, I am an avid learner, always eager to expand my knowledge and stay ahead of the curve. Whether it's through online courses, attending tech meetups, or participating in hackathons, I am constantly seeking opportunities to grow both professionally and personally.
-
-In my free time, I enjoy contributing to open-source projects, exploring new tech gadgets, and engaging with the developer community. I believe in the power of technology to transform lives and am passionate about using my skills to make a positive impact.
-
-I'm excited about the future of technology and am always open to new opportunities and challenges that allow me to leverage my expertise and drive innovation. Let's connect and see how we can create something amazing together!
+## Hello!
 
 <!--
 **thevirus15y/thevirus15y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
