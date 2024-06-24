@@ -21,7 +21,7 @@ Hello I am currently developing things for Velo Network..
 
 
   <a href="https://skillicons.dev">
-  The things I'm best at, ordered by time.
+<summary>he things I'm best at, ordered by time.</summary>
 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,html,css,js,github,md,nodejs,discord,bots,cloudflare,git,nginx,vscode,regex,mysql,prisma,netlify,svelte,tailwind,supabase,workers)](https://skillicons.dev)
   
