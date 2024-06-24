@@ -36,14 +36,15 @@ Hello i'm Mattieu! I am currently developing things for Velo Network..
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mvaqp&theme=prussian" alt="GitHub Streak" /></a>
 </details>
 
+
+
+
 <hr>
 
 ### What I'm doing right now
+<a href="https://discord.com/users/349899862495723520">
+<img src="https://lanyard.cnrad.dev/api/349899862495723520?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
 
-  <a href="https://discord.com/users/349899862495723520">
-    <img src="https://lanyard.cnrad.dev/api/349899862495723520?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
-  </a>
-  <br /><br />
 
 
 
