@@ -1,9 +1,9 @@
-  <h3>Welcome To My GitHub Profile</h3>
+  <h3>Hello!👋</h3>
 
  ![GitHub profile views](https://komarev.com/ghpvc/?username=mvaqp&color=009999&style=for-the-badge)
   <hr>
 
-Hello i'm Mattieu!
+Hello i'm Mattieu! I am currently developing things for Velo Network..
 
 <hr>
 
