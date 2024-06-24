@@ -1,12 +1,21 @@
   <h3>Welcome To My GitHub Profile</h3>
 
+ ![GitHub profile views](https://komarev.com/ghpvc/?username=mvaqp&color=009999&style=for-the-badge)
   <hr>
 
 Hello i'm Mattieu!
 
 <hr>
-  
-  ![GitHub profile views](https://komarev.com/ghpvc/?username=mvaqp&color=009999&style=for-the-badge)
+
+  <p align="center">
+  <b><a href="https://mvaq.xyz">My website</a></b>
+    ···  
+  <b><a href="https://discord.com/users/349899862495723520">Contact me</a></b>
+    ···  
+  <b><a href="https://discord.gg/velomc">Velo Network Discord server</a></b>
+</p>
+
+<hr>
 
 
   <a href="https://skillicons.dev">
@@ -25,6 +34,7 @@ Hello i'm Mattieu!
 <details>
   <summary>Click to reveal  stats</summary>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mvaqp&theme=prussian" alt="GitHub Streak" /></a>
+</details>
 
 <h3>My Discord</h3>
   <a href="https://discord.com/users/349899862495723520">
@@ -32,9 +42,7 @@ Hello i'm Mattieu!
   </a>
   <br /><br />
 
- ![Commit Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
-Thanks for visiting my profile!
 
 
 <!--
