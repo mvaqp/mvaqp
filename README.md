@@ -2,7 +2,7 @@
   ![GitHub profile views](https://komarev.com/ghpvc/?username=mvaqp&color=009999&style=for-the-badge)
 
 
-<div align="center">
+
   <h3>My Discord</h3>
   <a href="https://discord.com/users/349899862495723520">
     <img src="https://lanyard.cnrad.dev/api/349899862495723520?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
