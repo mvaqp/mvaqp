@@ -13,7 +13,7 @@
   
   ![My Skills](https://skillicons.dev/icons?i=py,express,vue,firebase,ts,grafana,go,docker)
 
-Things I have tried but don't use frequently
+<summary>Things I have tried but don't use frequently<summary>
 
   [![My Skills](https://skillicons.dev/icons?i=wordpress,php,java,eclipse,bootstrap,jquery,sass,deno,figma,materialui,react,nextjs,bash,powershell,prometheus,sass)
 
