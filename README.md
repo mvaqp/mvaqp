@@ -40,7 +40,10 @@ Hello i'm Mattieu! I am currently developing things for Velo Network..
 
 ### What I'm doing right now
 
-[![Discord Presence]([https://lanyard-profile-readme.vercel.app/api/319467558166069248](https://lanyard.cnrad.dev/api/349899862495723520?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P))]([https://discord.com/users/319467558166069248](https://discord.com/users/349899862495723520))
+  <a href="https://discord.com/users/349899862495723520">
+    <img src="https://lanyard.cnrad.dev/api/349899862495723520?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
+  </a>
+  <br /><br />
 
 
 
