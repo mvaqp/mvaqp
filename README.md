@@ -15,7 +15,7 @@
 
 
 <details>
- <summary>Things I have tried but don't use frequently</summary>
+Things I have tried but don't use frequently
 
   [![My Skills](https://skillicons.dev/icons?i=wordpress,php,java,eclipse,bootstrap,jquery,sass,deno,figma,materialui,react,nextjs,bash,powershell,prometheus,sass)(https://skillicons.dev)
 
