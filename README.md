@@ -1,4 +1,3 @@
-<div align="center">
   <h3>Welcome To My GitHub Profile</h3>
   ![GitHub profile views](https://komarev.com/ghpvc/?username=mvaqp&color=009999&style=for-the-badge)
 
