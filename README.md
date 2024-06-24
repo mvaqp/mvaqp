@@ -27,7 +27,7 @@ Hello i'm Mattieu! I am currently developing things for Velo Network..
    [![My Skills](https://skillicons.dev/icons?i=wordpress,php,java,eclipse,bootstrap,jquery,sass,deno,figma,materialui,react,nextjs,bash,powershell,prometheus,sass)](https://skillicons.dev)
 
 ## Projects
-- Currently a developer for (Velo Network)[https://velo.llc/]
+- Currently a developer for <b><a href="https://velo.llc/">Velo Network</a></b>
 
 ### Stats
 
