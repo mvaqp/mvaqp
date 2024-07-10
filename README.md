@@ -3,7 +3,7 @@
  ![GitHub profile views](https://komarev.com/ghpvc/?username=mvaqp&color=009999&style=for-the-badge)
   <hr>
 
-Hello I am currently developing things for Velo Network..
+Hello I am a freelance backend developer :)
 
 
 
@@ -32,7 +32,7 @@ Hello I am currently developing things for Velo Network..
    [![My Skills](https://skillicons.dev/icons?i=wordpress,java,eclipse,bootstrap,jquery,sass,deno,figma,materialui,react,nextjs,bash,powershell,prometheus,sass)](https://skillicons.dev)
 
 ## Projects
-- Currently a developer for <b><a href="https://velo.llc/">Velo Network</a></b>
+- ADZ API</a></b>
 
 ### Stats
 
