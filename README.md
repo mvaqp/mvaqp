@@ -14,7 +14,7 @@ Hello I am a freelance backend developer :)
     ···  
   <b><a href="https://discord.com/users/349899862495723520">Contact me</a></b>
     ···  
-  <b><a href="https://discord.gg/velomc">Velo Network Discord server</a></b>
+  <b><a href="https://discord.gg/-">------ Discord server</a></b>
 </p>
 
 <hr>
