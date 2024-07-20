@@ -32,7 +32,7 @@ Hello I am a freelance frontend developer :)
    [![My Skills](https://skillicons.dev/icons?i=wordpress,java,eclipse,bootstrap,jquery,sass,deno,figma,materialui,react,nextjs,bash,powershell,prometheus,sass)](https://skillicons.dev)
 
 ## Projects
-- ADZ API</a></b>
+- [Velo API](https://velo.llc/)</a></b>
 
 ### Stats
 
