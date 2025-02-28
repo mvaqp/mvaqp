@@ -3,7 +3,7 @@
  ![GitHub profile views](https://komarev.com/ghpvc/?username=mvaqp&color=009999&style=for-the-badge)
   <hr>
 
-Hello I am a freelance frontend developer :)
+Yo
 
 
 
