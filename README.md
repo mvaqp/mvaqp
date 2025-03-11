@@ -14,7 +14,7 @@ Yo
     ···  
   <b><a href="https://discord.com/users/349899862495723520">Contact me</a></b>
     ···  
-  <b><a href="https://discord.gg/-">------ Discord server</a></b>
+  <b><a href="https://discord.gg/-">Discord server</a></b>
 </p>
 
 <hr>
